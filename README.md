@@ -1,5 +1,7 @@
 This project is modified based on [paper author's tensorflow implementation](https://github.com/kang205/SASRec), switching to PyTorch(v1.6) for simplicity, fixed issues like positional embedding usage etc. (making it harder to overfit, except for that, in recsys, personalization=overfitting sometimes)
 
+Please refer to this kaggel page [H&M Personalized Fashion Recommendations](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data) to retrieve the data (articles.csv, customers.csv, transactions_train.csv) 
+
 to train:
 
 ```
