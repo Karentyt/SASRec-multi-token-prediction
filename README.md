@@ -32,13 +32,3 @@ pls check paper author's [repo](https://github.com/kang205/SASRec) for detailed 
   organization={IEEE}
 }
 ```
-
-I see a dozen of citations of the repo recently🫰, here's the repo bib if needed.
-```
-@software{Huang_SASRec_pytorch,
-author = {Huang, Zan},
-title = {PyTorch implementation for SASRec},
-url = {https://github.com/pmixer/SASRec.pytorch},
-year={2020}
-}
-```
